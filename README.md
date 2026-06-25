@@ -1,4 +1,4 @@
-[![Docs](https://img.shields.io/badge/Docs-brainglobe--stitch-blue)](https://brainglobe.info/documentation/brainglobe-stitch/index.html)
+[![Docs](https://img.shields.io/badge/Docs-brainglobe-stitch-blue)](https://brainglobe.info/documentation/brainglobe-stitch/index.html)
 [![Get in Touch](https://img.shields.io/badge/Get%20in%20Touch-BrainGlobe-blue)](https://brainglobe.info/contact.html)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.14001001-green)](https://doi.org/10.5281/zenodo.14001001)
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
@@ -6,11 +6,10 @@
 [![Codecov](https://codecov.io/gh/AlgoFoe/brainglobe-stitch/graph/badge.svg)](https://codecov.io/gh/AlgoFoe/brainglobe-stitch)
 [![Python Version](https://img.shields.io/pypi/pyversions/brainglobe-stitch.svg)](https://pypi.org/project/brainglobe-stitch)
 [![PyPI](https://img.shields.io/pypi/v/brainglobe-stitch.svg)](https://pypi.org/project/brainglobe-stitch)
-[![Conda](https://anaconda.org/conda-forge/brainglobe-stitch/badges/version.svg)](https://anaconda.org/conda-forge/brainglobe-stitch)
 [![Napari Hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/brainglobe-stitch)](https://www.napari-hub.org/plugins/brainglobe-stitch)
 [![Downloads](https://static.pepy.tech/badge/brainglobe-stitch)](https://pepy.tech/project/brainglobe-stitch)
 [![Code Style: Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/format.json)](https://github.com/astral-sh/ruff)
-[![Pre-commit](https://img.shields.io/badge/pre--commit-enabled-green?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
+[![Pre-commit](https://img.shields.io/badge/Pre--commit-enabled-green?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-green.svg)](https://brainglobe.info/community/developers/index.html)
 
 # brainglobe-stitch
