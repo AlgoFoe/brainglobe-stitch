@@ -6,7 +6,6 @@
 [![Codecov](https://codecov.io/gh/AlgoFoe/brainglobe-stitch/graph/badge.svg)](https://codecov.io/gh/AlgoFoe/brainglobe-stitch)
 [![Python Version](https://img.shields.io/pypi/pyversions/brainglobe-stitch.svg)](https://pypi.org/project/brainglobe-stitch)
 [![PyPI](https://img.shields.io/pypi/v/brainglobe-stitch.svg)](https://pypi.org/project/brainglobe-stitch)
-[![Conda](https://anaconda.org/conda-forge/brainglobe-stitch/badges/version.svg)](https://anaconda.org/conda-forge/brainglobe-stitch)
 [![Napari Hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/brainglobe-stitch)](https://www.napari-hub.org/plugins/brainglobe-stitch)
 [![Downloads](https://static.pepy.tech/badge/brainglobe-stitch)](https://pepy.tech/project/brainglobe-stitch)
 [![Code Style: Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/format.json)](https://github.com/astral-sh/ruff)
